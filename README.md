@@ -1,1 +1,1 @@
-# nba_mvp_analysis
+This repository is for a CMSC320 final at UMD
